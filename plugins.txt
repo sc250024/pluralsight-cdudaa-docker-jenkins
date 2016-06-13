@@ -1,8 +1,17 @@
 icon-shim:latest
+credentials-binding:latest
+structs:latest
+pipeline-stage-view:latest
+pipeline-build-step:latest
+pipeline-stage-step:latest
+pipeline-input-step:latest
+pipeline-rest-api:latest
 github:latest
 git-server:latest
 git-client:latest
 git:latest
+momentjs:latest
+handlebars:latest
 github-api:latest
 async-http-client:latest
 credentials:latest
